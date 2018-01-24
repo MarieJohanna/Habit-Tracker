@@ -8,11 +8,6 @@ input[type=radio]:checked + img {
   border-radius: 50%;
 }
 
-/* .imgicon:hover {
-  border: solid 1px black;
-  border-radius: 50%;
-} */
-
 .iconbutton {
   visibility: hidden;
   position: relative;

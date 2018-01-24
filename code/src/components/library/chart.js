@@ -7,7 +7,7 @@ const COLORS = ["#85d171", "#e53c53"]
 export default class Chart extends React.Component {
 
   render() {
-    const total = this.props.total
+    const { total } = this.props
     const data = [
       { name: "done", value: this.props.done / total },
       { name: "notDone", value: this.props.notDone / total }

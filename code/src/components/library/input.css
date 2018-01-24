@@ -5,27 +5,12 @@ form {
   width: auto;
 }
 
-/* .container {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-  margin-left: -40px;
-} */
-
 .icon-container {
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
 }
-
-/*.radio-container {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-} */
 
 input {
   border: solid black 1px;
@@ -71,7 +56,6 @@ img {
   font-size: 16px;
   text-transform: uppercase;
   padding: 20px;
-  margin: 10px;
   margin: 30px;
   margin-top: 5px;
   border-radius: 10px;

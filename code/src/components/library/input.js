@@ -1,12 +1,12 @@
 import React from "react"
 import "./input.css"
 import ChooseIcon from "./chooseicon"
-import bag from "./bag.png"
-import bicycle from "./bicycle.png"
-import food from "./food.png"
-import gymbag from "./gymbag.png"
-import sport from "./sport.png"
-import toothbrush from "./toothbrush.png"
+import bag from "./icons/bag.png"
+import bicycle from "./icons/bicycle.png"
+import food from "./icons/food.png"
+import gymbag from "./icons/gymbag.png"
+import sport from "./icons/sport.png"
+import toothbrush from "./icons/toothbrush.png"
 
 const icons = [bag, bicycle, food, gymbag, sport, toothbrush]
 
