@@ -4,7 +4,7 @@ import Chart from "./chart"
 import Task from "./task"
 import Input from "./input"
 import "./dayView.css"
-import icon from "./down-arrow-in-small-circle-blk.svg"
+import icon from "./images/down-arrow-in-small-circle-blk.svg"
 
 class DayView extends React.Component {
 
